@@ -1,16 +1,15 @@
-### Hello, I'm Luan! 🙂
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Peixoto;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">I love challenges and seeking new knowledge.  <br><br> Programming is extremely fun and rewarding for me. I'm studying hard to become a developer.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luanms6&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-luanms6.vercel.app/api/top-langs/?username=luanms6&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luanms6&show_icons=true&count_private=true&hide_border=true&title_color=D8BFD8&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Luan Peixoto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanms6&layout=compact&hide_border=true&title_color=A020F0&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 
 
 
