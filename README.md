@@ -21,15 +21,14 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 #### Studying in this moment:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Hibernate](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![JPA](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Java FX](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-F2F4F9?style=for-the-badge&logo=Hibernate)&nbsp;
+![JPA](https://img.shields.io/badge/JPA-F2F4F9?style=for-the-badge&logo=sJPA)&nbsp;
+![Java FX](https://img.shields.io/badge/Java-FX-F2F4F9?style=for-the-badge&logo=Java-FX)&nbsp;
 
 #### Databases:
 
