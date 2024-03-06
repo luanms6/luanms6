@@ -28,7 +28,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-F2F4F9?style=for-the-badge&logo=Hibernate)&nbsp;
 ![JPA](https://img.shields.io/badge/JPA-F2F4F9?style=for-the-badge&logo=sJPA)&nbsp;
-![Java FX](https://img.shields.io/badge/Java-FX-F2F4F9?style=for-the-badge&logo=Java-FX)&nbsp;
+![Java FX](https://img.shields.io/badge/Java-FX-F2F4F9?style=for-the-badge&logo=JavaFX)&nbsp;
 
 #### Databases:
 
