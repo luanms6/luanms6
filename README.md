@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Peixoto;I'm+22+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luan+Peixoto;I'm+23+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">I love challenges and seeking new knowledge.  <br><br> Programming is extremely fun and rewarding for me. I'm studying hard to become a developer.</p>&nbsp;
 
